@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋🏻, I'm Moira Renata!</h1>
+<h1 align="center">Hi, I'm Moira Renata! 👋🏻 </h1>
 <h3 align="center">An aspiring data scientist by day, foodie by night!</h3>
 <img align="right" alt="Coding" width="300" src="https://www.linkpicture.com/q/Image-2_6.png">
 
