@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Moira</h1>
+<h3 align="center">A passionate data scientist!</h3>
 
-<!--
-**moirarenata/moirarenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a student in UBC **majoring in Stats + Data Science**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **moirarenata.s@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥸 I’m currently working on **sharpening my data analysis and visualization skills**
+
+- 🎉 I'm an aspiring data scientist by day, foodie by night! **Ask me for food recommendations in Vancouver!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
