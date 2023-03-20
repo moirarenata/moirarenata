@@ -8,7 +8,7 @@
 
 - 🤝🏻 I’m looking to collaborate on **sports related data analysis projects**
 
-- 💻 I’m currently working on **honing my data analysis and visualization skills!**
+- 💻 I’m currently working on honing my **data analysis and visualization skills!**
 
 - 👩🏻‍💻 My favorite programming languages: **R, Python, SQL, Java, MATLAB**
 
