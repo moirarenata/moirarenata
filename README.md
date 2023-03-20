@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Moira</h1>
-<h3 align="center">A passionate data scientist!</h3>
+<h1 align="center">Hi👋🏻, I'm Moira Renata!</h1>
+<h3 align="center">An aspiring data scientist by day, foodie by night!</h3>
 
-- 🔭 I’m currently a student in UBC **majoring in Stats + Data Science**
+- 👩🏻‍🎓 I'm a student in UBC **majoring in Stats + Data Science**
 
-- 📫 How to reach me **moirarenata.s@gmail.com**
+- 💬 Ask me about **food recommendations in Vancouver, BC!**
 
-- 🥸 I’m currently working on **sharpening my data analysis and visualization skills**
+- 🤝🏻 I’m looking to collaborate on **sports related data analysis projects**
 
-- 🎉 I'm an aspiring data scientist by day, foodie by night! **Ask me for food recommendations in Vancouver!**
+- 👩🏻‍💻 I’m currently working on **honing my data analysis+visualization skills!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 📫 How to reach me: **moirarenata.s@gmail.com**
+
 </p>
