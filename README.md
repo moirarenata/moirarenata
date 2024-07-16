@@ -6,10 +6,6 @@
 
 - 💬 Ask me about **food recommendations in Vancouver, BC!**
 
-- 🤝🏻 I’m looking to collaborate on **sports related data analysis projects**
-
-- 💻 I’m currently working on honing my **data analysis and visualization skills!**
-
 - 👩🏻‍💻 My favorite programming languages: **R, Python, SQL, Java, MATLAB**
 
 - 📫 How to reach me: **moirarenata.s@gmail.com**
